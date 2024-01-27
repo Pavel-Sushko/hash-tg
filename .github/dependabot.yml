@@ -10,10 +10,13 @@ updates:
       schedule:
           interval: 'weekly'
       assignees:
-          - "Pavel-Sushko"
+          - 'Pavel-Sushko'
       versioning-strategy: 'auto'
 
     - package-ecosystem: 'github-actions'
+      directory: '/' # Location of package manifests
+      schedule:
+          interval: 'weekly'
       assignees:
-          - "Pavel-Sushko"
+          - 'Pavel-Sushko'
       versioning-strategy: 'auto'
