@@ -9,7 +9,7 @@ packages = ["src/hash-tg"]
 name = "hash_tg"
 version = "0.0.3"
 authors = [
-    { name = "Pavel Sushko", email = "pavel_sushko@pm.me" }
+    { name = "Pavel Sushko", email = "github@psushko.com" }
 ]
 description = "Telegram bot for performing various functions against hashes"
 readme = "README.md"
